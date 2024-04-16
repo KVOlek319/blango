@@ -51,6 +51,8 @@ class Dev(Configuration):
         'django.contrib.sites',
         'django.contrib.staticfiles',
 
+        "rest_framework",
+
         "debug_toolbar",
         "crispy_forms",
         "crispy_bootstrap5",
